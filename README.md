@@ -1,5 +1,6 @@
 ## Ey La Buena, Soy Relaxadito !
-🎆 Bienvenido a mi espacio, soy estudiante de programacion y este es mi universo.
+🎆 Welcome to my space, I am a development student and this is my universe. 
+
 <img src="https://scene360.com/wp-content/uploads/2015/10/alejandro-burdisio-09.jpg" alt="logo" data-canonical-src="" style="max-width: 100%;">
 
 - 📫 How to reach me: ... nfzapataca@cesde.net
