@@ -4,8 +4,7 @@
 📫 How to reach me: ... nfzapataca@cesde.net
 
 <img src="https://wallpaperaccess.com/full/4910984.gif" alt="logo" data-canonical-src="" style="max-width: 100%;">
-<img src="https://github.com/r3l4x1n/r3l4x1n/assets/127248381/91f0c235-a19e-440d-a53e-1ac9db632991)
-" alt="logo" data-canonical-src="" style="max-width: 100%;">
+<img src="https://drive.google.com/file/d/1SHfe2kFhgxbHigsVjVA1ihJbc2UTWc4c/view?usp=drive_link" alt="logo" data-canonical-src="" style="max-width: 100%;">
 
 ## Languages & Tools 🛠:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
